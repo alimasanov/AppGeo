@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppGeo</string>
+    <string name="add">Добавить запись</string>
+    <string name="show">Показать записи</string>
+    <string name="fio">ФИО</string>
+    <string name="city">Город</string>
+    <string name="birthday">Дата рождения</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="go_to_map">Открыть карту</string>
+</resources>
